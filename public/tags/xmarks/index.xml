@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xmarks on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/xmarks/</link>
+    <description>Recent content in Xmarks on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Sep 2015 19:04:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/xmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>跨平台书签同步:Xmarks</title>
+      <link>http://localhost:1313/posts/utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-xmarks/</link>
+      <pubDate>Mon, 07 Sep 2015 19:04:08 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-xmarks/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/07/Utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-Xmarks/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;xmarks简介&#34;&gt;Xmarks简介&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.xmarks.com&#34;&gt;Xmarks&lt;/a&gt; 是一款浏览器书签同步工具，它可以实现不同设备，不同浏览器之间的书签同步，并且是免费的。&lt;/p&gt;
+&lt;p&gt;有人会说，我们为什么需要一款专门的书签同步工具呢？Safari 自带的 iCloud 书签同步，Chrome 自带的同步设置不都是挺好用的吗？ 我个人选择 Xmarks 的原因是，经常需要在 Mac 机器和 Windows 机器之间进行切换，Safari 当然是挺好用的，但是 Windows 下没得用，切换到 Windows 机器只能选择使用 Chrome 或者 Firefox， 就存在书签同步的需求了。当然你也可以说每个平台都是用 Firefox 或者 Chrome 即可，但就我个人而言，这两款浏览器在 Mac 下的便捷性目前看来还是比不上 Safari 的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

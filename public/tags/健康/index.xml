@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>健康 on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/%E5%81%A5%E5%BA%B7/</link>
+    <description>Recent content in 健康 on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Aug 2022 21:47:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>十步学习法与程序员延寿指南</title>
+      <link>http://localhost:1313/posts/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BB%B6%E5%AF%BF%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sat, 20 Aug 2022 21:47:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BB%B6%E5%AF%BF%E6%8C%87%E5%8D%97/</guid>
+      <description>&lt;p&gt;最近一直在思考如何制定自己的个人目标，凑巧某天开车的时候在微信读书上听到了&lt;a href=&#34;https://book.douban.com/subject/36044253/&#34;&gt;《软技能：代码之外的生存指南》&lt;/a&gt; 这本书，里面提到的关于程序员职业生涯规划部分十分受用，后来到喜马拉雅上找了个更好的版本，快速把第一篇听了一遍，并且趁周末仔细的阅读了一下电子版。&lt;/p&gt;
+&lt;p&gt;目前整本书还没有读完，我挑了其中个人比较感兴趣的职业篇和学习篇阅读完了，其中职业篇有介绍到设置一个人生目标，而学习篇则介绍了作者本人总结的一套学习方法，他称之为 “十步学习法”，本篇文章主要就是我自己使用十步学习法进行个人目标设置和规划的一些实践。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

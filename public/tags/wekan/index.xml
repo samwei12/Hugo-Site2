@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wekan on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/wekan/</link>
+    <description>Recent content in Wekan on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 May 2020 15:10:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wekan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Wekan 搭建个人看板</title>
+      <link>http://localhost:1313/posts/utilities/wekan/</link>
+      <pubDate>Sun, 03 May 2020 15:10:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/wekan/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/05/03/Utilities/Wekan/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;看板&#34;&gt;看板？&lt;/h2&gt;
+&lt;p&gt;术语：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;看板：TODO&lt;/li&gt;
+&lt;li&gt;列表：同类型的事务放在一起，按照任务进度，通常为：未完成、进行中、已完成&lt;/li&gt;
+&lt;li&gt;卡片：最小单位，即任务，&lt;/li&gt;
+&lt;li&gt;泳道：不同类型的任务横向对比，例如，团队中不同分组等&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

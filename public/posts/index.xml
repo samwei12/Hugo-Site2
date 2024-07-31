@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jul 2024 21:00:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人电子书阅读系统总结</title>
+      <link>http://localhost:1313/posts/reading/%E4%B8%AA%E4%BA%BA%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Tue, 30 Jul 2024 21:00:44 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/%E4%B8%AA%E4%BA%BA%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BB%93/</guid>
+      <description>这篇主要是总结一下自己目前的书籍阅读系统， 硬件 阅读器 软件 calibre Logseq 微信读书 总结</description>
+    </item>
+    <item>
+      <title>认知觉醒-1-大脑的构造</title>
+      <link>http://localhost:1313/posts/reading/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-1-%E5%A4%A7%E8%84%91%E7%9A%84%E6%9E%84%E9%80%A0/</link>
+      <pubDate>Mon, 29 Jul 2024 23:18:43 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-1-%E5%A4%A7%E8%84%91%E7%9A%84%E6%9E%84%E9%80%A0/</guid>
+      <description>&lt;p&gt;最近重新开始审视自己的生活和规划，无意间在微信读书上看到了《认知觉醒》这本书评价挺不错的，所以通过听书和看书的方式进行了学习，感觉对自己的现状很有启发，简单记录一下自己的读书心得。&lt;/p&gt;
+&lt;h2 id=&#34;大脑的构造导致了你就是不爱学习&#34;&gt;大脑的构造导致了你就是不爱学习&lt;/h2&gt;
+&lt;p&gt;本书提到，人类的大脑是由三部分构成的，可以分别称为本能脑、情绪脑、理智脑，它们是在人类演化过程中逐步发展起来的，其中本能脑大约是 3.6 亿年前开始出现，情绪脑大约是 2 亿年前，理智脑是最晚出现的，大约在 250 万年前。&lt;/p&gt;
+&lt;p&gt;人类之所以能够在地球上各个生物之中脱颖而出，靠的就是我们的思考和认知能力，也就是理智脑。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://learner.oss-cn-hangzhou.aliyuncs.com/img/202407292323504.png&#34; alt=&#34;202407292323504&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logseq 系列之同步插件</title>
+      <link>http://localhost:1313/posts/utilities/logseq/logseq-%E7%B3%BB%E5%88%97%E4%B9%8B%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Sun, 11 Sep 2022 22:37:13 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/logseq/logseq-%E7%B3%BB%E5%88%97%E4%B9%8B%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;原文地址： &lt;a href=&#34;https://blog.samwei12.cn/2022/09/11/Utilities/Logseq/Logseq%20%E7%B3%BB%E5%88%97%E4%B9%8B%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/&#34;&gt;Logseq 系列之同步插件 | samwei12&amp;rsquo;s blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;前些天看到群友们讨论 Logseq 要是能够在不同设备间同步插件和主题就好了，目前 Logseq 官方同步已经在小规模测试中，预计再有一两个月就会发布，未来大概率会出同步插件的功能。不过考虑到官方同步的免费使用空间肯定不会很大，如果有大量的本地图片或者其他文档类文件，就不适合免费用了，且主要是现在的 Git 同步方案已经非常好用（重点是免费！），所以还是考虑完善一下现有的方案，短时间内不迁移官方同步。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logseq 系列之文档管理</title>
+      <link>http://localhost:1313/posts/utilities/logseq-%E7%B3%BB%E5%88%97%E4%B9%8B%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 28 Aug 2022 18:07:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/logseq-%E7%B3%BB%E5%88%97%E4%B9%8B%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86/</guid>
+      <description>&lt;p&gt;本文主要是介绍一下我自己在使用 Logseq 进行文档管理时遇到的一些问题以及解决方案。&lt;/p&gt;
+&lt;h2 id=&#34;现状&#34;&gt;现状&lt;/h2&gt;
+&lt;p&gt;目前 Logseq 针对各种文档、图片等外部资源的管理形式比较简单，统一放到 &lt;code&gt;assets&lt;/code&gt; 这里目录下进行管理，在实际使用中通过相对路径进行引入，大概是下图这样：&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://learner.oss-cn-hangzhou.aliyuncs.com/img/20220828181355.png&#34; alt=&#34;20220828181355&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>十步学习法与程序员延寿指南</title>
+      <link>http://localhost:1313/posts/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BB%B6%E5%AF%BF%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Sat, 20 Aug 2022 21:47:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/%E5%8D%81%E6%AD%A5%E5%AD%A6%E4%B9%A0%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BB%B6%E5%AF%BF%E6%8C%87%E5%8D%97/</guid>
+      <description>&lt;p&gt;最近一直在思考如何制定自己的个人目标，凑巧某天开车的时候在微信读书上听到了&lt;a href=&#34;https://book.douban.com/subject/36044253/&#34;&gt;《软技能：代码之外的生存指南》&lt;/a&gt; 这本书，里面提到的关于程序员职业生涯规划部分十分受用，后来到喜马拉雅上找了个更好的版本，快速把第一篇听了一遍，并且趁周末仔细的阅读了一下电子版。&lt;/p&gt;
+&lt;p&gt;目前整本书还没有读完，我挑了其中个人比较感兴趣的职业篇和学习篇阅读完了，其中职业篇有介绍到设置一个人生目标，而学习篇则介绍了作者本人总结的一套学习方法，他称之为 “十步学习法”，本篇文章主要就是我自己使用十步学习法进行个人目标设置和规划的一些实践。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logseq 系列之 Git 同步</title>
+      <link>http://localhost:1313/posts/utilities/logseq%E7%B3%BB%E5%88%97%E4%B9%8Bgit%E5%90%8C%E6%AD%A5/</link>
+      <pubDate>Fri, 12 Aug 2022 21:25:40 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/logseq%E7%B3%BB%E5%88%97%E4%B9%8Bgit%E5%90%8C%E6%AD%A5/</guid>
+      <description>&lt;p&gt;这篇文章主要介绍一下我自己使用 Git 同步 Logseq 的一些心得。前置知识是需要你懂一些基本的 Git 操作，或者起码有一定的动手能力。如果你没听过 Git，那可能本文不太适合你。&lt;/p&gt;
+&lt;p&gt;随着 Logseq 的 iOS 版本发布及更新，手机上也能够快速的访问甚至随手自己的笔记了，这无疑是一个非常棒的事情。当然，由于 iOS 系统本身的特点，我们只能使用iCloud 进行 PC 和手机之间同步，这本身并没有什么问题，甚至为了手机端同步，我花了一点时间把放到自己 NAS 里面的笔记全部迁到了 iCloud，并且重新订阅起了 iCloud 的服务（每月 6 元最低档）。&lt;/p&gt;
+&lt;p&gt;然而，经过一段时间的使用，我发现事情并没有想象中的那么简单。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>简悦&#43;Logseq 搭建本地化个人知识库</title>
+      <link>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+      <pubDate>Mon, 21 Mar 2022 22:14:04 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</guid>
+      <description>&lt;p&gt;最近在少数派上看到了 &lt;a href=&#34;https://sspai.com/post/72022&#34;&gt;简悦 +Logseq 个人知识库搭建 | 从零开始完全指南 - 少数派&lt;/a&gt;， 一时间感觉打开了新世界，其实我很早就买了简悦 2.0，但由于一直没有很好的使用场景，外加配置实在过于复杂， 始终吃灰。直到看到这篇文章，发现原来简悦也可以直接跟 Logseq 打通，那么稍后读的最大弊端终于有了完美的解决方案。&lt;/p&gt;
+&lt;p&gt;不过实际按照教程配置的过程中，发现原作者是基于坚果云搭建的，不符合我本地化的思路（主要是公司不允许用云盘），因此尝试摸索一个本地任意文件夹均可实现的方案，过程中踩了非常多的坑，记录下来，希望对大家有帮助。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>万物互联</title>
+      <link>http://localhost:1313/posts/%E4%B8%87%E7%89%A9%E4%BA%92%E8%81%94/</link>
+      <pubDate>Tue, 15 Mar 2022 22:02:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E4%B8%87%E7%89%A9%E4%BA%92%E8%81%94/</guid>
+      <description>&lt;p&gt;今天在开车回家的路上又听了一遍《人是如何学习的》，当听到其中讲专家具有普通人所没有的几大特征时，其中第一条就是专家具有“心理表征”。这里解释到什么是心理表征的时候，我突然感到最近所阅读和学习的知识全部串在了一起，有一种不吐不快的感觉，于是在车里构思了这篇文章。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>思维导图软件测评</title>
+      <link>http://localhost:1313/posts/utilities/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84/</link>
+      <pubDate>Sat, 05 Jun 2021 10:14:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84/</guid>
+      <description>&lt;p&gt;最近连续写了两篇万字长文，有点累了，而且我也知道这种长文基本上也不太会有人阅读，周末写点测评放松一下。&lt;/p&gt;
+&lt;p&gt;这篇文章主要是介绍一下这几年我自己所用过的几款思维导图软件。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>小强升职记-笔记和关于时间管理的思考实践</title>
+      <link>http://localhost:1313/posts/reading/%E5%B0%8F%E5%BC%BA%E5%8D%87%E8%81%8C%E8%AE%B0-%E7%AC%94%E8%AE%B0%E5%92%8C%E5%85%B3%E4%BA%8E%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9A%84%E6%80%9D%E8%80%83%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sun, 23 May 2021 11:56:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading/%E5%B0%8F%E5%BC%BA%E5%8D%87%E8%81%8C%E8%AE%B0-%E7%AC%94%E8%AE%B0%E5%92%8C%E5%85%B3%E4%BA%8E%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9A%84%E6%80%9D%E8%80%83%E5%AE%9E%E8%B7%B5/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;五一期间阅读完毕了《小强升职记》一书，感觉收获颇丰，对自己的时间管理进行了更加深入的思考和了解。本文就针对我在阅读过程中所记录的一些笔记以及思考实践进行一个回顾总结。&lt;/p&gt;
+&lt;p&gt;这本书的主线是介绍主人公职场菜鸟小强在大牛老付的帮助下，一步步理清楚自己在时间管理方面所犯下的一些错误，并且进行改正完善，之后慢慢从菜鸟走向一名比较成熟合格的技术负责人的整个历程，按照这条成长路线来进行叙述的。可以看出作者在这方面的功底非常深厚，深入浅出的就把时间管理中常犯的一些错误和如何应对逐步的展开来讲述。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>万字长文---关于PKM收集与整理系统的思考和实践</title>
+      <link>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sat, 22 May 2021 22:29:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2021/05/22/Thinking/%E5%85%B3%E4%BA%8EPKM%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;PKM闭环中有一个很重要的环节就是信息输入，包括各种信息来源，例如微信公众号、博客、知乎、RSS等等，因此也就诞生了一大堆稍后读软件，如何真正有效的获取输入而不是做一只仓鼠是需要思考的。最近看了《小强升职记》很有收获，里面提到最好在每个方面都有一个自己的小系统，“&lt;strong&gt;做事要靠系统而不是靠感觉&lt;/strong&gt;”，因此这里简单记录下自己的思考和目前构建起来的信息收集整理系统。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>使用Logseq构建GTD系统</title>
+      <link>http://localhost:1313/posts/utilities/%E4%BD%BF%E7%94%A8logseq%E6%9E%84%E5%BB%BAgtd%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 08 May 2021 15:07:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E4%BD%BF%E7%94%A8logseq%E6%9E%84%E5%BB%BAgtd%E7%B3%BB%E7%BB%9F/</guid>
+      <description>2021-05-08： 1.0版本初步完成，待完善已完成任务回顾 2021-05-10： 1.1版本完成，修改不重要不紧急为将来清单，且新增每周回</description>
+    </item>
+    <item>
+      <title>使用 Wekan 搭建个人看板</title>
+      <link>http://localhost:1313/posts/utilities/wekan/</link>
+      <pubDate>Sun, 03 May 2020 15:10:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/wekan/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/05/03/Utilities/Wekan/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;看板&#34;&gt;看板？&lt;/h2&gt;
+&lt;p&gt;术语：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;看板：TODO&lt;/li&gt;
+&lt;li&gt;列表：同类型的事务放在一起，按照任务进度，通常为：未完成、进行中、已完成&lt;/li&gt;
+&lt;li&gt;卡片：最小单位，即任务，&lt;/li&gt;
+&lt;li&gt;泳道：不同类型的任务横向对比，例如，团队中不同分组等&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>如何构建一个PKM系统</title>
+      <link>http://localhost:1313/posts/thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AApkm%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 02 May 2020 11:00:44 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AApkm%E7%B3%BB%E7%BB%9F/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/05/02/Thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%20PKM%20%E7%B3%BB%E7%BB%9F/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这篇文章是个人知识总结相关的第一篇文章，主要目的是为了阐述我们为什么需要一个 PKM 系统，并且简单对自己这几年亲身形成的PKM 系统进行总结。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pkm-是什么&#34;&gt;PKM 是什么？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PKM 是 Personal Knowledge Management 的缩写，我们先来看一下 Wikipedia 中的描述：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005). It is a response to the idea that knowledge workers need to be responsible for their own growth and learning (Smedley 2009).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这个解释已经非常清晰了，PKM 就是一套个人知识管理系统，包括知识检索、收集、分类、分享等等，可以说我们在日常生活中每个人都在不停的使用 PKM，例如看新闻、刷抖音、刷微信公众号等等，都是一个不停获取信息的过程，那么我们为什么要梳理搭建属于自己的 PKM 呢？&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>JDBC学习一---JDBC入门</title>
+      <link>http://localhost:1313/posts/server/jdbc%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
+      <pubDate>Sat, 07 Mar 2020 17:54:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/server/jdbc%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/03/07/Server/JDBC%E5%AD%A6%E4%B9%A0%E4%B8%80/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天开始会写一系列 Java 后端学习的笔记，一方面是为了以后翻阅查看，更主要的原因是通过写作输出的方式让自己的印象更深，避免遗忘。&lt;/p&gt;
+&lt;p&gt;首先是简单记录下自己学习使用 JDBC 的历程，由于目前基本都是通过一些类似 MyBatis 的框架来进行数据库操作，所以 JDBC 的使用不需要掌握太深入，仅作为了解即可。&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;首先我们学习任何东西之前都需要先了解几个问题，基本上的思路是：
+1. xxx 是什么？
+2. 有什么作用？也就是为什么需要 xxx？
+3. 怎么使用（简单入门即可）？
+4. 分别就主要链路进行知识补充
+之后，可以根据实际情况决定是否要进一步深入了解，还是只作为简单学习即可。&lt;/p&gt;
+&lt;p&gt;JDBC 也不例外。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cocoapods插件机制浅析</title>
+      <link>http://localhost:1313/posts/ruby/cocoapods%E6%8F%92%E4%BB%B6%E6%9C%BA%E5%88%B6%E6%B5%85%E6%9E%90/</link>
+      <pubDate>Wed, 04 Mar 2020 23:16:48 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ruby/cocoapods%E6%8F%92%E4%BB%B6%E6%9C%BA%E5%88%B6%E6%B5%85%E6%9E%90/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/03/04/Ruby/Cocoapods%E6%8F%92%E4%BB%B6%E6%9C%BA%E5%88%B6%E6%B5%85%E6%9E%90/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;p&gt;虽然做iOS开发的过程中使用过 &lt;strong&gt;&lt;a href=&#34;https://cocoapods.org/&#34;&gt;Cocoapods&lt;/a&gt;&lt;/strong&gt;， 但是对里面的细节了解其实不算太多，直到这两年做织女项目时，通过对Cocoapods进行Qt支持改造才开始深入了解部分细节，这个过程中，网上没有找到太多相关资料，本文就简单介绍下我对Cocoapods提供的插件机制的一个简单了解，希望能给大家带来一些帮助。&lt;/p&gt;
+&lt;h3 id=&#34;ruby-open-classes&#34;&gt;Ruby Open Classes&lt;/h3&gt;
+&lt;p&gt;在此之前，我们简单看下 &lt;code&gt;Ruby Open Classes&lt;/code&gt; ，这部分是为未接触过Ruby的同学准备的，熟悉的同学可以直接略过。&lt;/p&gt;
+&lt;p&gt;在Ruby中，类永远是开放的，你总是可以将新的方法加入到已有的类中，除了你自己的代码中，还可以用在标准库和内置类中，这个特性被称为&lt;code&gt;Ruby Open Classes&lt;/code&gt;。下面我们通过一个示例简单看下。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何创建一个 Cocoapods 插件</title>
+      <link>http://localhost:1313/posts/ruby/gem/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AAcocoapods-%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Mon, 22 Apr 2019 11:07:35 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ruby/gem/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AAcocoapods-%E6%8F%92%E4%BB%B6/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2019/04/22/Ruby/Gem/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AACocoapods%20%E6%8F%92%E4%BB%B6/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我们在使用 Cocoapods 过程中,如果发现它未能满足我们的要求该怎么办呢?&lt;/li&gt;
+&lt;li&gt;最简单的粗暴的办法就是 fork 一份 Cocoapods 源码,然后自己公司内部或者个人直接针对源码进行部分修改或者新增功能,但这样做完全没有兼容性和扩展性,如果后续 Cocoapods 升级版本,你是无法兼容的,还需要重新进行一次修改,费力不讨好.&lt;/li&gt;
+&lt;li&gt;其实 Cocoapods 提供了一套很方便的插件机制,只需要符合插件规则,即可定制各种自定义需求,接下来我们就看下应该如何自定义一个自己的插件.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>如何恢复 iCloud 已删除文件</title>
+      <link>http://localhost:1313/posts/utilities/mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D-icloud-%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Sun, 21 Apr 2019 22:58:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D-icloud-%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2019/04/21/Utilities/Mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%20iCloud%20%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天在查找之前的 C++ 笔记时,突然发现之前的资料全没了,整个 Cpp 文件夹内就只剩下了三个文件,怎么形容当时的心情呢,应该说是一下就跌倒了谷底,感觉之前的心血全白费了,有种深深的挫败感.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>常用汇编指令总结</title>
+      <link>http://localhost:1313/posts/assembly/%E5%B8%B8%E7%94%A8%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Sat, 07 Jul 2018 18:15:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assembly/%E5%B8%B8%E7%94%A8%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2018/07/07/Assembly/%E5%B8%B8%E7%94%A8%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>如何在 MWeb 中配置 Hexo 等静态网站</title>
+      <link>http://localhost:1313/posts/utilities/writing/mweb&#43;hexo%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Sat, 07 Jul 2018 16:52:48 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/writing/mweb&#43;hexo%E9%85%8D%E7%BD%AE/</guid>
+      <description>原文链接 参考链接： https://zh.mweb.im/mweb-1.4-add-floder-octpress-support.html https://zhuanlan.zhihu.com/p/30513914 网上搜索到相关资料，如上面的链接，发现最新版本 MWeb （3.1.2）步骤有所出入，添加外部文件夹时候并没有弹出设置页面，需要</description>
+    </item>
+    <item>
+      <title>Python模板引擎Jinja2使用简介</title>
+      <link>http://localhost:1313/posts/python/python%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8Ejinja2%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Sat, 07 Jul 2018 15:52:36 +0000</pubDate>
+      <guid>http://localhost:1313/posts/python/python%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8Ejinja2%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/</guid>
+      <description>原文链接 背景 最近在项目开发中，需要针对 Jenkins 项目进行配置，Jenkins 的 job 配置采用的是 xml，在维护配置模板的过程中就遇到了问题，因为逐步发现</description>
+    </item>
+    <item>
+      <title>如何实现ARC中weak功能？</title>
+      <link>http://localhost:1313/posts/objective-c/%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fruntime%E4%B8%ADweak%E7%9A%84%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Wed, 09 Mar 2016 11:27:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fruntime%E4%B8%ADweak%E7%9A%84%E5%AE%9E%E7%8E%B0/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/03/09/Objective-C/%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fruntime%E4%B8%ADweak%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%9F/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们都知道ARC中&lt;code&gt;weak&lt;/code&gt;与&lt;code&gt;assign&lt;/code&gt;或者说&lt;code&gt;unsafe_unretained&lt;/code&gt;最大的不同就是设置&lt;code&gt;weak&lt;/code&gt;属性后，系统会在对象被释放后自动将指向对象的指针置为&lt;code&gt;nil&lt;/code&gt;，而&lt;code&gt;assign&lt;/code&gt;则会产生一个悬空指针，那么系统是如何实现这一机制呢？我们能否自己模拟系统对&lt;code&gt;weak&lt;/code&gt;的实现呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NSView subview blocking drag/drop event</title>
+      <link>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</link>
+      <pubDate>Tue, 26 Jan 2016 13:41:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/01/26/Objective-C/subview-blocking-drag-event/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;近期在Mac项目中有一个处理鼠标拖拽事件的需求, 大致处理流程是这样的:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从 NSView 继承得到一个子类&lt;/li&gt;
+&lt;li&gt;覆盖处理拖拽事件相关方法&lt;/li&gt;
+&lt;li&gt;注册拖拽事件&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Mac下如何自动备份目录到七牛云?</title>
+      <link>http://localhost:1313/posts/utilities/mac/mac%E4%B8%8B%E5%A6%82%E4%BD%95%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD%E7%9B%AE%E5%BD%95%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</link>
+      <pubDate>Tue, 19 Jan 2016 22:54:58 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/mac/mac%E4%B8%8B%E5%A6%82%E4%BD%95%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD%E7%9B%AE%E5%BD%95%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/01/19/Utilities/Mac/Mac%E4%B8%8B%E5%A6%82%E4%BD%95%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD%E7%9B%AE%E5%BD%95%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;七牛云是个很好用的图床,但是 Mac 下并没有什么很好用的客户端,每次上传都需要在网页上手动一个个传文件,十分麻烦,于是仔细看了下七牛云的部分文档,打算使用QRSBox来自动上传图片.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何实现 UITabbarController 的 State Preservation?</title>
+      <link>http://localhost:1313/posts/objective-c/uitabbarcontroller-state-preservation/</link>
+      <pubDate>Tue, 19 Jan 2016 21:58:07 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/uitabbarcontroller-state-preservation/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/01/19/Objective-C/UITabbarController-State-Preservation/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近在看&lt;strong&gt;ios programming - the big nerd ranch guide&lt;/strong&gt; 这本书,其中第24章介绍了如何使用系统接口来实现 State Restoration. 示例部分介绍的是如何针对 &lt;code&gt;UINavigationController&lt;/code&gt; 来进行保存和还原状态, 然后额外的练习题部分是 &lt;code&gt;UITabbarController&lt;/code&gt; 的状态保存和恢复,可是在这里却一直遇到问题， 导致程序返回时&lt;code&gt;UITabbarController&lt;/code&gt;始终无法还原状态，本文记录下如何使用State Restoration和&lt;code&gt;UITabbarController&lt;/code&gt;所需的额外处理。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AVCaptureSession部分用法</title>
+      <link>http://localhost:1313/posts/objective-c/avcapturesession%E9%83%A8%E5%88%86%E7%94%A8%E6%B3%95/</link>
+      <pubDate>Mon, 21 Sep 2015 13:58:46 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/avcapturesession%E9%83%A8%E5%88%86%E7%94%A8%E6%B3%95/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/21/Objective-C/AVCaptureSession%E9%83%A8%E5%88%86%E7%94%A8%E6%B3%95/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;avcapturesession阻塞主线程问题&#34;&gt;AVCaptureSession阻塞主线程问题&lt;/h2&gt;
+&lt;p&gt;前阵子程序中出现了一个奇怪的 bug，在 iOS 系统上，页面弹出的时候会卡很久，相机始终黑屏，大概6-7秒钟，跟踪具体每个步骤花费时间的时候发现在&lt;code&gt;viewWillDisappear:&lt;/code&gt;中开销最大，这其中只调用了一个相机关闭的代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-objc&#34; data-lang=&#34;objc&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;([[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;avCameraManager&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;session&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;isRunning&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;])&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;			&lt;span class=&#34;p&#34;&gt;[[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;avCameraManager&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;session&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;stopRunning&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;仔细看了文档之后，发现问题出在&lt;code&gt; stopRunning&lt;/code&gt;这里，&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何取消 UIView 动画？</title>
+      <link>http://localhost:1313/posts/objective-c/%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88uiview%E5%8A%A8%E7%94%BB/</link>
+      <pubDate>Wed, 09 Sep 2015 14:28:02 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88uiview%E5%8A%A8%E7%94%BB/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/09/Objective-C/%E5%A6%82%E4%BD%95%E5%8F%96%E6%B6%88UIView%E5%8A%A8%E7%94%BB/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近项目中有一个需求是需要手动点击相机对焦，这里由于相机对焦部分需要一个类似于系统对焦框一样的缩放动画，同时动画时长为0.3秒，因此这里就有一个很普遍的需求，如果用户在0.3秒内继续点击对焦会怎么样？&lt;/p&gt;
+&lt;p&gt;动画部分代码很简单，如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-objc&#34; data-lang=&#34;objc&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;transform&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGAffineTransformMakeScale&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;2.0f&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;2.0f&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;UIView&lt;/span&gt; &lt;span class=&#34;nl&#34;&gt;animateWithDuration&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.3f&lt;/span&gt; &lt;span class=&#34;nl&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0.0f&lt;/span&gt; &lt;span class=&#34;nl&#34;&gt;options&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;UIViewAnimationOptionCurveLinear&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;nl&#34;&gt;animations&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                         &lt;span class=&#34;nb&#34;&gt;self&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;transform&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CGAffineTransformIdentity&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;nl&#34;&gt;completion&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;BOOL&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;finished&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;						 &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;finished&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;							 &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;self&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;hideFocus&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;						 &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                     &lt;span class=&#34;p&#34;&gt;}];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;对焦框在0.3秒内进行两倍缩小到正常尺寸的一个动画，之后隐藏。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>跨平台书签同步:Xmarks</title>
+      <link>http://localhost:1313/posts/utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-xmarks/</link>
+      <pubDate>Mon, 07 Sep 2015 19:04:08 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-xmarks/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/07/Utilities/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E4%B9%A6%E7%AD%BE%E5%90%8C%E6%AD%A5-Xmarks/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;xmarks简介&#34;&gt;Xmarks简介&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.xmarks.com&#34;&gt;Xmarks&lt;/a&gt; 是一款浏览器书签同步工具，它可以实现不同设备，不同浏览器之间的书签同步，并且是免费的。&lt;/p&gt;
+&lt;p&gt;有人会说，我们为什么需要一款专门的书签同步工具呢？Safari 自带的 iCloud 书签同步，Chrome 自带的同步设置不都是挺好用的吗？ 我个人选择 Xmarks 的原因是，经常需要在 Mac 机器和 Windows 机器之间进行切换，Safari 当然是挺好用的，但是 Windows 下没得用，切换到 Windows 机器只能选择使用 Chrome 或者 Firefox， 就存在书签同步的需求了。当然你也可以说每个平台都是用 Firefox 或者 Chrome 即可，但就我个人而言，这两款浏览器在 Mac 下的便捷性目前看来还是比不上 Safari 的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何使用 Hexo 搭建个人博客</title>
+      <link>http://localhost:1313/posts/utilities/writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 01 Sep 2015 17:49:16 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/01/Utilities/Writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;什么是-hexo-&#34;&gt;什么是 Hexo ？&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io&#34;&gt;Hexo&lt;/a&gt; 是一个简单快速的静态博客框架，可以通过编辑 &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; 文档生成好看的静态博客。&lt;/p&gt;
+&lt;h2 id=&#34;搭建-hexo&#34;&gt;搭建 Hexo&lt;/h2&gt;
+&lt;h3 id=&#34;要求&#34;&gt;要求&lt;/h3&gt;
+&lt;p&gt;安装 Hexo 十分简单，只需要 Node.js 和 Git 即可。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

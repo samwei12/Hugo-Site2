@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTD on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/gtd/</link>
+    <description>Recent content in GTD on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 May 2021 15:07:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Logseq构建GTD系统</title>
+      <link>http://localhost:1313/posts/utilities/%E4%BD%BF%E7%94%A8logseq%E6%9E%84%E5%BB%BAgtd%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 08 May 2021 15:07:34 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E4%BD%BF%E7%94%A8logseq%E6%9E%84%E5%BB%BAgtd%E7%B3%BB%E7%BB%9F/</guid>
+      <description>2021-05-08： 1.0版本初步完成，待完善已完成任务回顾 2021-05-10： 1.1版本完成，修改不重要不紧急为将来清单，且新增每周回</description>
+    </item>
+  </channel>
+</rss>

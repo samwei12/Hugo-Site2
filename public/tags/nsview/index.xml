@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NSView on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/nsview/</link>
+    <description>Recent content in NSView on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Jan 2016 13:41:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nsview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NSView subview blocking drag/drop event</title>
+      <link>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</link>
+      <pubDate>Tue, 26 Jan 2016 13:41:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/01/26/Objective-C/subview-blocking-drag-event/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;近期在Mac项目中有一个处理鼠标拖拽事件的需求, 大致处理流程是这样的:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从 NSView 继承得到一个子类&lt;/li&gt;
+&lt;li&gt;覆盖处理拖拽事件相关方法&lt;/li&gt;
+&lt;li&gt;注册拖拽事件&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

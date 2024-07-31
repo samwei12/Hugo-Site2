@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hexo on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/hexo/</link>
+    <description>Recent content in Hexo on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Sep 2015 17:49:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用 Hexo 搭建个人博客</title>
+      <link>http://localhost:1313/posts/utilities/writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 01 Sep 2015 17:49:16 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2015/09/01/Utilities/Writing/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;什么是-hexo-&#34;&gt;什么是 Hexo ？&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io&#34;&gt;Hexo&lt;/a&gt; 是一个简单快速的静态博客框架，可以通过编辑 &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; 文档生成好看的静态博客。&lt;/p&gt;
+&lt;h2 id=&#34;搭建-hexo&#34;&gt;搭建 Hexo&lt;/h2&gt;
+&lt;h3 id=&#34;要求&#34;&gt;要求&lt;/h3&gt;
+&lt;p&gt;安装 Hexo 十分简单，只需要 Node.js 和 Git 即可。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

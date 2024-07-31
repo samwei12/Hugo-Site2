@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>思维导图 on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
+    <description>Recent content in 思维导图 on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Jun 2021 10:14:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>思维导图软件测评</title>
+      <link>http://localhost:1313/posts/utilities/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84/</link>
+      <pubDate>Sat, 05 Jun 2021 10:14:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84/</guid>
+      <description>&lt;p&gt;最近连续写了两篇万字长文，有点累了，而且我也知道这种长文基本上也不太会有人阅读，周末写点测评放松一下。&lt;/p&gt;
+&lt;p&gt;这篇文章主要是介绍一下这几年我自己所用过的几款思维导图软件。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

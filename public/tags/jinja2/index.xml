@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jinja2 on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/jinja2/</link>
+    <description>Recent content in Jinja2 on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:52:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jinja2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python模板引擎Jinja2使用简介</title>
+      <link>http://localhost:1313/posts/python/python%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8Ejinja2%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Sat, 07 Jul 2018 15:52:36 +0000</pubDate>
+      <guid>http://localhost:1313/posts/python/python%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8Ejinja2%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/</guid>
+      <description>原文链接 背景 最近在项目开发中，需要针对 Jenkins 项目进行配置，Jenkins 的 job 配置采用的是 xml，在维护配置模板的过程中就遇到了问题，因为逐步发现</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PKM on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/pkm/</link>
+    <description>Recent content in PKM on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 21 Mar 2022 22:14:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pkm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简悦&#43;Logseq 搭建本地化个人知识库</title>
+      <link>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+      <pubDate>Mon, 21 Mar 2022 22:14:04 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</guid>
+      <description>&lt;p&gt;最近在少数派上看到了 &lt;a href=&#34;https://sspai.com/post/72022&#34;&gt;简悦 +Logseq 个人知识库搭建 | 从零开始完全指南 - 少数派&lt;/a&gt;， 一时间感觉打开了新世界，其实我很早就买了简悦 2.0，但由于一直没有很好的使用场景，外加配置实在过于复杂， 始终吃灰。直到看到这篇文章，发现原来简悦也可以直接跟 Logseq 打通，那么稍后读的最大弊端终于有了完美的解决方案。&lt;/p&gt;
+&lt;p&gt;不过实际按照教程配置的过程中，发现原作者是基于坚果云搭建的，不符合我本地化的思路（主要是公司不允许用云盘），因此尝试摸索一个本地任意文件夹均可实现的方案，过程中踩了非常多的坑，记录下来，希望对大家有帮助。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>万字长文---关于PKM收集与整理系统的思考和实践</title>
+      <link>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sat, 22 May 2021 22:29:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2021/05/22/Thinking/%E5%85%B3%E4%BA%8EPKM%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;PKM闭环中有一个很重要的环节就是信息输入，包括各种信息来源，例如微信公众号、博客、知乎、RSS等等，因此也就诞生了一大堆稍后读软件，如何真正有效的获取输入而不是做一只仓鼠是需要思考的。最近看了《小强升职记》很有收获，里面提到最好在每个方面都有一个自己的小系统，“&lt;strong&gt;做事要靠系统而不是靠感觉&lt;/strong&gt;”，因此这里简单记录下自己的思考和目前构建起来的信息收集整理系统。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何构建一个PKM系统</title>
+      <link>http://localhost:1313/posts/thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AApkm%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 02 May 2020 11:00:44 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AApkm%E7%B3%BB%E7%BB%9F/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/05/02/Thinking/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%20PKM%20%E7%B3%BB%E7%BB%9F/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这篇文章是个人知识总结相关的第一篇文章，主要目的是为了阐述我们为什么需要一个 PKM 系统，并且简单对自己这几年亲身形成的PKM 系统进行总结。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pkm-是什么&#34;&gt;PKM 是什么？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PKM 是 Personal Knowledge Management 的缩写，我们先来看一下 Wikipedia 中的描述：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities (Grundspenkis 2007) and the way in which these processes support work activities (Wright 2005). It is a response to the idea that knowledge workers need to be responsible for their own growth and learning (Smedley 2009).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这个解释已经非常清晰了，PKM 就是一套个人知识管理系统，包括知识检索、收集、分类、分享等等，可以说我们在日常生活中每个人都在不停的使用 PKM，例如看新闻、刷抖音、刷微信公众号等等，都是一个不停获取信息的过程，那么我们为什么要梳理搭建属于自己的 PKM 呢？&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>稍后读 on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/tags/%E7%A8%8D%E5%90%8E%E8%AF%BB/</link>
+    <description>Recent content in 稍后读 on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 21 Mar 2022 22:14:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A8%8D%E5%90%8E%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简悦&#43;Logseq 搭建本地化个人知识库</title>
+      <link>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</link>
+      <pubDate>Mon, 21 Mar 2022 22:14:04 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/%E7%AE%80%E6%82%A6-logseq-%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93/</guid>
+      <description>&lt;p&gt;最近在少数派上看到了 &lt;a href=&#34;https://sspai.com/post/72022&#34;&gt;简悦 +Logseq 个人知识库搭建 | 从零开始完全指南 - 少数派&lt;/a&gt;， 一时间感觉打开了新世界，其实我很早就买了简悦 2.0，但由于一直没有很好的使用场景，外加配置实在过于复杂， 始终吃灰。直到看到这篇文章，发现原来简悦也可以直接跟 Logseq 打通，那么稍后读的最大弊端终于有了完美的解决方案。&lt;/p&gt;
+&lt;p&gt;不过实际按照教程配置的过程中，发现原作者是基于坚果云搭建的，不符合我本地化的思路（主要是公司不允许用云盘），因此尝试摸索一个本地任意文件夹均可实现的方案，过程中踩了非常多的坑，记录下来，希望对大家有帮助。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>万字长文---关于PKM收集与整理系统的思考和实践</title>
+      <link>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sat, 22 May 2021 22:29:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thinking/%E5%85%B3%E4%BA%8Epkm%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2021/05/22/Thinking/%E5%85%B3%E4%BA%8EPKM%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;PKM闭环中有一个很重要的环节就是信息输入，包括各种信息来源，例如微信公众号、博客、知乎、RSS等等，因此也就诞生了一大堆稍后读软件，如何真正有效的获取输入而不是做一只仓鼠是需要思考的。最近看了《小强升职记》很有收获，里面提到最好在每个方面都有一个自己的小系统，“&lt;strong&gt;做事要靠系统而不是靠感觉&lt;/strong&gt;”，因此这里简单记录下自己的思考和目前构建起来的信息收集整理系统。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

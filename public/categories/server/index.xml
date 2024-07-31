@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Server on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/categories/server/</link>
+    <description>Recent content in Server on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Mar 2020 17:54:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JDBC学习一---JDBC入门</title>
+      <link>http://localhost:1313/posts/server/jdbc%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
+      <pubDate>Sat, 07 Mar 2020 17:54:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/server/jdbc%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2020/03/07/Server/JDBC%E5%AD%A6%E4%B9%A0%E4%B8%80/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天开始会写一系列 Java 后端学习的笔记，一方面是为了以后翻阅查看，更主要的原因是通过写作输出的方式让自己的印象更深，避免遗忘。&lt;/p&gt;
+&lt;p&gt;首先是简单记录下自己学习使用 JDBC 的历程，由于目前基本都是通过一些类似 MyBatis 的框架来进行数据库操作，所以 JDBC 的使用不需要掌握太深入，仅作为了解即可。&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;首先我们学习任何东西之前都需要先了解几个问题，基本上的思路是：
+1. xxx 是什么？
+2. 有什么作用？也就是为什么需要 xxx？
+3. 怎么使用（简单入门即可）？
+4. 分别就主要链路进行知识补充
+之后，可以根据实际情况决定是否要进一步深入了解，还是只作为简单学习即可。&lt;/p&gt;
+&lt;p&gt;JDBC 也不例外。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

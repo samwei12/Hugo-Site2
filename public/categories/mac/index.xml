@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mac on Samwei12&#39;s blog</title>
+    <link>http://localhost:1313/categories/mac/</link>
+    <description>Recent content in Mac on Samwei12&#39;s blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Apr 2019 22:58:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何恢复 iCloud 已删除文件</title>
+      <link>http://localhost:1313/posts/utilities/mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D-icloud-%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Sun, 21 Apr 2019 22:58:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/utilities/mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D-icloud-%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2019/04/21/Utilities/Mac/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%20iCloud%20%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今天在查找之前的 C++ 笔记时,突然发现之前的资料全没了,整个 Cpp 文件夹内就只剩下了三个文件,怎么形容当时的心情呢,应该说是一下就跌倒了谷底,感觉之前的心血全白费了,有种深深的挫败感.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>NSView subview blocking drag/drop event</title>
+      <link>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</link>
+      <pubDate>Tue, 26 Jan 2016 13:41:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/objective-c/subview-blocking-drag-event/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.samwei12.cn/2016/01/26/Objective-C/subview-blocking-drag-event/&#34;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;近期在Mac项目中有一个处理鼠标拖拽事件的需求, 大致处理流程是这样的:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从 NSView 继承得到一个子类&lt;/li&gt;
+&lt;li&gt;覆盖处理拖拽事件相关方法&lt;/li&gt;
+&lt;li&gt;注册拖拽事件&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
